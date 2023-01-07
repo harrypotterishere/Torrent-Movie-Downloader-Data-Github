@@ -39,6 +39,11 @@
       "key": "updateVersionCode",
       "value": "2",
       "type": "update"
+    },
+    {
+      "key": "requestOption",
+      "value": "yes",
+      "type": "functionality"
     }
   ]
 }
