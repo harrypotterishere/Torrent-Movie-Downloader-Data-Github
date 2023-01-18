@@ -10080,6 +10080,57 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Aadha Ishq",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Aadhaishqtitlecard.jpeg/375px-Aadhaishqtitlecard.jpeg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6)",
+      "description": "Aadha Ishq is an Indian romantic drama web series produced by Bhairavi Raichura under the banner of 24 Frames Media. It features Aamna Sharif, Gaurav Arora and Pratibha Ranta. The series released on 12 May 2022 on streaming platform Voot Select.",
+      "genre": "Romance",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=d07L2secr0s",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Flames",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/5/5d/Flames_poster.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.9)",
+      "description": "Head-of-the-class Rajat falls for Ishita, the new girl in the tuition centre.",
+      "genre": "Romentic/Drama",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=QvGU_ftnKrg",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Breathe: Into the Shadows",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Breathe_Into_The_Shadows_Poster.jpeg/375px-Breathe_Into_The_Shadows_Poster.jpeg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.9)",
+      "description": "Uno psichiatra di successo e sua moglie si ritroveranno costretti a spingersi oltre ogni limite per salvare la figlia, rapita ad una festa di compleanno.",
+      "genre": "Thriller",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=nxE-k2MLQIA",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
