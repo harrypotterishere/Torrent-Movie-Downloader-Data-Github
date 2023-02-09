@@ -10265,7 +10265,24 @@
       "trailer": "https://www.youtube.com/watch?v=0FX-5mw98ZE",
       "premium": "",
       "animate": "",
-      "type": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Wednesday",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.2)",
+      "description": "While attending Nevermore Academy, Wednesday Addams attempts to master her emerging psychic ability, thwart a killing spree and solve the mystery that embroiled her parents 25 years ago.",
+      "genre": "Comedy/Horror",
+      "language": "Spanish",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=Di310WS8zLk",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
       "extra": ""
     }
   ]
