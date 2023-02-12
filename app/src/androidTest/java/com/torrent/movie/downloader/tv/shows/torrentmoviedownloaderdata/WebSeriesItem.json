@@ -10301,6 +10301,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Farzi",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Farzi.jpeg/375px-Farzi.jpeg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.5)",
+      "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller...",
+      "genre": "Thriller",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=rcQ_xZdzPBc",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "The Last of Us",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Last_of_Us_TV_logo.svg/225px-The_Last_of_Us_TV_logo.svg.png",
+      "link": "-",
+      "quality": "720p",
+      "size": "-",
+      "ratings": "IMDB (10/9.2)",
+      "description": "Tasked with escorting a teenager across a post-apocalyptic world, a dreaded smuggler joins hands with a young apprentice to fulfil the mission unscathed.",
+      "genre": "Drama",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
