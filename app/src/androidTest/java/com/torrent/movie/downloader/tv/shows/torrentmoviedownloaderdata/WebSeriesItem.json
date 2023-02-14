@@ -10335,6 +10335,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Class",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/7/7a/Non_free_rationale_poster_of_Class.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.3)",
+      "description": "Three lower-class youths attend a prestigious international school in Delhi. Following the dramatic dynamics of the exclusive school and the tumultuous events that ensue.",
+      "genre": "Drama",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=nuSMGtZhsAc",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Narcos (Hindi)",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/b/b9/Narcos_season_1.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.8)",
+      "description": "Netflix chronicles the rise of the cocaine trade in ColoMBia and the gripping real-life stories of drug kingpins of the late '80s in this raw, gritty original series. Also detailed are the actions taken by law enforcement as they battle in the war on drugs, targeting notorious and powerful figures that include drug lord Pablo Escobar. As efforts are made to control cocaine, one of the world's most valuable commodities, the many entities involved -- legal, political, police, military and civilian -- find themselves in conflict.",
+      "genre": "Drama",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=xl8zdCY-abw",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
