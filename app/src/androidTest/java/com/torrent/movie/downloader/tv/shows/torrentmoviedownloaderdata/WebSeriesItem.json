@@ -10369,6 +10369,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Modern Family",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Modern_Family_Title.svg/375px-Modern_Family_Title.svg.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.5)",
+      "description": "Three modern-day families from California try to deal with their kids, quirky spouses and jobs in their own unique ways, often falling into hilarious situations.",
+      "genre": "Sitcom",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=Ub_lfN2VMIo",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "House of the Dragon",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/2/26/House_of_the_Dragon_logo.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.5)",
+      "description": "After the death of their father, two siblings fight for the throne, thereby causing a civil war known as the Dance of the Dragons.",
+      "genre": "Drama",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
