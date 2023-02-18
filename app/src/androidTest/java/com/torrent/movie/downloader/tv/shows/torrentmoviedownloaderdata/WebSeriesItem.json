@@ -10437,6 +10437,23 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Taaza Khabar",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/0/05/Taaza_Khabar_hotstar_poster.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.3)",
+      "description": "The most recent news, updates and developments.",
+      "genre": "Drama",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=97ozjepH31Y",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
