@@ -10488,6 +10488,23 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "The Night Manager",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_Night_Manager_%28Indian_TV_series%29.jpg",
+      "link": "-",
+      "quality": "720p",
+      "size": "-",
+      "ratings": "IMDB (10/8.1)",
+      "description": "The Night Manager is a Hindi-language crime thriller television series created by Sandeep Modi, which serves as a remake of the British television series The Night Manager based on the John Le Carre's novel of the same name.",
+      "genre": "Suspense",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=6QJQysiUxKc",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
