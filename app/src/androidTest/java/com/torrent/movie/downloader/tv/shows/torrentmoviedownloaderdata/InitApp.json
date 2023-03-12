@@ -47,7 +47,7 @@
     },
     {
       "key": "customAd",
-      "value": "{\n  \"banner\": \"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSIe0G24N8kSZ6f2lELshmolbGeWKjfvu81W0H-jfnSvMzuK9J\",\n  \"info\": \"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSIe0G24N8kSZ6f2lELshmolbGeWKjfvu81W0H-jfnSvMzuK9J\",\n  \"action\": \"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSIe0G24N8kSZ6f2lELshmolbGeWKjfvu81W0H-jfnSvMzuK9J\",\n  \"actionName\": \"Download Now\",\n  \"show\": \"0\"\n}",
+      "value": "{\n  \"banner\": \"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSIe0G24N8kSZ6f2lELshmolbGeWKjfvu81W0H-jfnSvMzuK9J\",\n  \"info\": \"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSIe0G24N8kSZ6f2lELshmolbGeWKjfvu81W0H-jfnSvMzuK9J\",\n  \"action\": \"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSIe0G24N8kSZ6f2lELshmolbGeWKjfvu81W0H-jfnSvMzuK9J\",\n  \"actionName\": \"Download Now\",\n  \"show\": \"1\"\n}",
       "type": "ads"
     }
   ]
