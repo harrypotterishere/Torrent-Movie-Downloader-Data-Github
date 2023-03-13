@@ -47,7 +47,7 @@
     },
     {
       "key": "customAd",
-      "value": "{\n  \"banner\": \"https://i.postimg.cc/ydxdZMKQ/2-2.jpg\",\n  \"info\": \"\",\n  \"action\": \"http://795.set.qureka.com/\",\n  \"actionName\": \"Play Now\",\n  \"show\": \"1\"\n}",
+      "value": "{\n  \"banner\": \"https://i.postimg.cc/ydxdZMKQ/2-2.jpg\",\n  \"info\": \"\",\n  \"action\": \"http://795.set.qureka.com/\",\n  \"actionName\": \"Play Now\",\n  \"show\": \"0\"\n}",
       "type": "ads"
     }
   ]
