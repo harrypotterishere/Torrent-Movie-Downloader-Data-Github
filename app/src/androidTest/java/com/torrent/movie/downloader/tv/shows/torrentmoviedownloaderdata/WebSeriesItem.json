@@ -10675,6 +10675,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Red Rose",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Red_Rose_title_card.png/330px-Red_Rose_title_card.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.4)",
+      "description": "An original horror series exploring the relationship between teenagers and their online lives. Set and filmed in Bolton, `Red Rose' follows a group of friends in the summer after taking their GCSEs as their phones get slowly taken over by an app that threatens them with dangerous consequences if they do not meet its demands. A sense of danger looms over the protagonists, and whether real or imagined, the dark web or something supernatural, with a story of friendship that emerges through the convention of classic horror.",
+      "genre": "Horror",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=lSPiL8J-QlM",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Jehanabad - Of Love & War",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/7/76/Jehanabad_poster.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.8)",
+      "description": "Jehanabad - Of Love & War is a SonyLIV Original, crime thriller streaming on Sony LIV, helmed by show-runner Sudhir Mishra and produced by Studio NEXT. The show has been directed by Rajeev Barnwal and Satyanshu Singh. Rajeev has also written the story, screenplay & dialogues for this series.",
+      "genre": "Thriller",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=9vzqzoXXFd8",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
