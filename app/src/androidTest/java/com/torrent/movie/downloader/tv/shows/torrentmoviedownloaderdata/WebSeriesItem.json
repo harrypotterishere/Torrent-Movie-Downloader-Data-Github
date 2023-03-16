@@ -10709,6 +10709,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Country Mafia",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/320px-Image_not_available.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.2)",
+      "description": "Country Mafia is an action drama web series that tells the story of two siblings that aspire to be IAS officers, but have their dreams put on hold when they confront a powerful liquor baron for murdering their father.",
+      "genre": "Action/Drama",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=dTjzFdom7iQ",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "1899",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/5/59/1899NetflixPosterEnglish.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.2)",
+      "description": "Immigrants on a steamship travelling from London to New York get caught up in a mysterious riddle after finding a second vessel adrift on the open sea.",
+      "genre": "Mystery",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=91e7bhx7JlU",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
