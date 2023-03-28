@@ -10845,6 +10845,23 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "The Night Agent",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/f/f2/The_Night_Agent.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/7.7)",
+      "description": "While monitoring an emergency line, an FBI agent answers a call that plunges him into a deadly conspiracy involving a mole at the White House.",
+      "genre": "Drama",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=YDbnY9Obsfs",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
