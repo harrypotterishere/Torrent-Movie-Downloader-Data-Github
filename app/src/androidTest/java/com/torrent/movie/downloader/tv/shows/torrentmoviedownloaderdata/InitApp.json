@@ -47,7 +47,7 @@
     },
     {
       "key": "customAd",
-      "value": "{\n  \"banner\": \"https://i.postimg.cc/3N6v3rtx/500-X300-2.png\",\n  \"info\": \"\",\n  \"action\": \"http://795.set.qureka.com/\",\n  \"actionName\": \"Play Now\",\n  \"show\": \"1\",\n  \"adsterraUrl\":\"https://moviedownloaderapp101.blogspot.com/\",\n  \"showAdsterraAds\":\"1\"\n}",
+      "value": "{\n  \"banner\": \"https://i.postimg.cc/nV5jjz1H/500-X300-3.png\",\n  \"info\": \"\",\n  \"action\": \"http://795.set.qureka.com/\",\n  \"actionName\": \"Play Now\",\n  \"show\": \"1\",\n  \"adsterraUrl\":\"https://moviedownloaderapp101.blogspot.com/\",\n  \"showAdsterraAds\":\"1\",\n  \"showUnityAds\":\"1\"\n}",
       "type": "ads"
     }
   ]
