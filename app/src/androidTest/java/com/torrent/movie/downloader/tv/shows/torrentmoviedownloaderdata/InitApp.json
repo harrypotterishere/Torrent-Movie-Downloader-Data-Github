@@ -47,7 +47,7 @@
     },
     {
       "key": "customAd",
-      "value": "{\n  \"banner\": \"https://i.postimg.cc/d3T8kTky/1080-X1080-1.png\",\n  \"info\": \"\",\n  \"action\": \"http://795.set.qureka.com/\",\n  \"actionName\": \"Play Now\",\n  \"show\": \"1\",\n  \"adsterraUrl\":\"http://795.set.qureka.com/\",\n  \"adsterraTimeInMillis\":\"7000\",\n  \"showAdsterraAds\":\"1\",\n  \"showUnityAds\":\"1\"\n}",
+      "value": "{\n  \"banner\": \"https://i.postimg.cc/YqYsTvn0/1080-X1080-2.png\",\n  \"info\": \"\",\n  \"action\": \"http://795.set.qureka.com/\",\n  \"actionName\": \"Play Now\",\n  \"show\": \"1\",\n  \"adsterraUrl\":\"http://795.set.qureka.com/\",\n  \"adsterraTimeInMillis\":\"7000\",\n  \"showAdsterraAds\":\"1\",\n  \"showUnityAds\":\"1\"\n}",
       "type": "ads"
     }
   ]
